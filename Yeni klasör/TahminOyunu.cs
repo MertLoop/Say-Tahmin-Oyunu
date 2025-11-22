@@ -97,21 +97,5 @@ namespace C_SayiTahminOyunum
     
 
 
-/* 
- 
- Kendi Şifreleme Algoritmamı yazmak istiyorum.
 
-Sessiz harfleri 3 harf ileri çevirsin.
-Sesli harfleri 2 harf ileri çevirsin. 
-Bu şekilde bir şifreleme algoritması yazacağım.
-Tek sayıları 1 ileri çevirsin.
-Çift sayıları 2 ileri çevirsin.
- 
- 
- 
- 
- 
- 
- 
- 
- */
+
